@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1517403009 source:c:\users\jinay parekh\desktop\programs\prog of c\mergesort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

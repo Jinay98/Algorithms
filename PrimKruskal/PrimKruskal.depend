@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519738687 source:c:\users\jinay parekh\desktop\programs\prog of c\primkruskal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
